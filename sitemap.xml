@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.google.com/schemas/sitemap/0.84">
-  <sitemap>
-    <loc>https://taeyeoupkang.github.io</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://taeyeoupkang.github.io/research/</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://taeyeoupkang.github.io/notes/</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://taeyeoupkang.github.io/teaching/</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://taeyeoupkang.github.io/assets/inv.pdf</loc>
-  </sitemap>
-</sitemapindex>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://taeyeoupkang.github.io/</loc>
+  <lastmod>2021-11-20T14:41:39+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://taeyeoupkang.github.io/research/</loc>
+  <lastmod>2021-11-20T14:41:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taeyeoupkang.github.io/notes/</loc>
+  <lastmod>2021-11-20T14:41:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taeyeoupkang.github.io/teaching/</loc>
+  <lastmod>2021-11-20T14:41:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taeyeoupkang.github.io/assets/aff_srp_fib.pdf</loc>
+  <lastmod>2021-11-20T14:41:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
